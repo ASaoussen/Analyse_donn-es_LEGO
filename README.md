@@ -1,7 +1,8 @@
 # Analyse_donn-es_LEGO
 
-Le travail fait est: 
-A partir d'un fichiers Excel, fondés sur de vraies données du fabricant de jouets LEGO :
+Le travail fait est:
+
+A partir de deux fichiers Excel, fondés sur de vraies données du fabricant de jouets LEGO :
 
 - Identifiez le « groupe de thèmes » qui a eu le plus de « sets » produits en 1970.
 
